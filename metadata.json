@@ -1,0 +1,5 @@
+{
+  "name": "SonicWeb DAW",
+  "description": "A futuristic online audio editor and DAW with real-time effects like EQ, Delay, and Reverb.",
+  "requestFramePermissions": []
+}
